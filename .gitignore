@@ -1,0 +1,19 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# local data / outputs
+*.db
+*.sqlite3
+analysis-output/
+_smoke*.txt
+*.png
+
+# secrets
+.env
