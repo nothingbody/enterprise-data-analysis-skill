@@ -2,6 +2,7 @@
 
 > A general-purpose, enterprise-grade data-analysis agent — point it at your data, ask in plain language, get a board-ready report.
 
+[![CI](https://github.com/nothingbody/enterprise-data-analysis-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/nothingbody/enterprise-data-analysis-skill/actions/workflows/ci.yml)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![Built with Claude](https://img.shields.io/badge/built%20with-Claude-d97757.svg)
